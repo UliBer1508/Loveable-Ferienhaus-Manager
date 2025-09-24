@@ -1,2 +1,2 @@
 # Loveable-Ferienhaus-Manager
-die lovabale variante
+das ist die variante die loveable verwendet
